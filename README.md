@@ -8,7 +8,7 @@
 
 ## Welcome to the Yoast SEO GitHub repository
 
-Tweaked version for some sites which needed a way to auto truncate title lenght. Currently used on (https://milliondollargiftclubc.com, https://viewportsizer.com, https://freshfordesigners.com, https://followthewinds.com, https://getwindsurffit.com). 
+Tweaked version for some sites which needed a way to auto truncate title lenght. Currently used on (https://milliondollargiftclub.com, https://viewportsizer.com, https://freshfordesigners.com, https://followthewinds.com, https://getwindsurffit.com). 
 
 
 While the documentation for the [Yoast SEO plugin](https://yoa.st/1ul) can be found on [Yoast.com](https://yoa.st/1um), here
